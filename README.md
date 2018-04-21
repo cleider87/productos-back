@@ -12,7 +12,7 @@ POST /api/products
 Body Request
 ```javascript
 {
-	"nombre": "Samsung S8 Negroo",
+	"nombre": "Samsung S8 Negro",
 	"marca": "Samsung",
 	"modelo": "GMTSK60"
 }
