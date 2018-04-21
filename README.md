@@ -1,5 +1,5 @@
 # Productos Backend
-
+[![Build Status](https://travis-ci.org/cleider87/productos-back.svg?branch=master)](https://travis-ci.org/cleider87/productos-back)
 ## Instalación
 
 npm install
