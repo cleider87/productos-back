@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cleider87/productos-rest.git"
+    "url": "git+https://github.com/cleider87/productos-back.git"
   },
   "keywords": [
     "productos",
@@ -18,11 +18,15 @@
   "author": "Cleider Herrera <cleider87@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cleider87/productos-rest/issues"
+    "url": "https://github.com/cleider87/productos-back/issues"
   },
-  "homepage": "https://github.com/cleider87/productos-rest#readme",
+  "homepage": "https://github.com/cleider87/productos-back#readme",
   "dependencies": {
     "express": "^4.16.3",
     "mongoose": "^5.0.15"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1"
   }
 }
